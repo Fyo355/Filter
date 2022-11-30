@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Drama"
+  },
+  {
+    "name": "Crime"
+  },
+  {
+    "name": "Action"
+  },
+  {
+    "name": "Adventure"
+  },
+  {
+    "name": "Romance"
+  },
+  {
+    "name": "Fantasy"
+  },
+  {
+    "name": "Thriller"
+  },
+  {
+    "name": "Sci-fi"
+  },
+  {
+    "name": "Music"
+  },
+  {
+    "name": "Family"
+  }
+]
